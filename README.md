@@ -13,8 +13,8 @@ Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações 
 
 
 
-### 📱 Conecte-se comigo
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://https://www.youtube.com/@z4tl4s)
+### 📱 Entre em contato!
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@z4tl4s)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davilemossouza@protonmail.com)
 
 ---
@@ -27,7 +27,5 @@ Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
 
 
