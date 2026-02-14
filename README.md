@@ -7,6 +7,10 @@
 - 🔬 Meu objetivo é atuar na área de pesquisa científica.
 - 📚 Atualmente focado no estudo da matemática básica.
 
+ 🇫🇷: Je peut bien parler français!
+ 🇬🇧: I speak english fluently! 
+ 🇪🇦: Solo un poco de español.
+
 ###
 
 Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim**, além de manusear com **eletrônica** e escrever documentação técnica com **LaTeX**.
