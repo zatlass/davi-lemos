@@ -14,7 +14,7 @@
 
 ###
 
-Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim**, além de manusear com **eletrônica** e escrever documentação técnica com **LaTeX**.
+Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim** e também para alguns projeos envolvendo inteligência artificial, além de manusear com **eletrônica** e escrever documentação técnica com **LaTeX**.
 
 
 ### 📱 Entre em contato!
