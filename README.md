@@ -1,29 +1,30 @@
 # 👋 Davi Lemos de Souza
 
-### 🔭 Sobre mim
-- 🎓 Estudante de Física na **Universidade de Brasília (UnB)**.
-- 🐍 Desenvolvo animações matemáticas utilizando a ferramenta **Manim**.
-- 📟 Trabalho com projetos de **Eletrônica** e microcontroladores.
-- 🔬 Meu objetivo é atuar na área de pesquisa científica.
+### 🔭 About me
+- 🎓 Physics student in **Universidade de Brasília (UnB)**.
+- 🐍 I create math animations using **Manim**.
+- 📟 I work whit **Eletronics** and microcontrollers projects.
+- 🔬  My goal is to work in scientific research.
 
 ---
 
 - 🇫🇷: Je peut bien parler français!
 - 🇬🇧: I speak english fluently! 
 - 🇪🇦: Solo un poco de español.
+- 🇧🇷: Im brazilian native.
 
 ###
 
-Sou apaixonado no que estudo. Atualmente utilizo o **Python** para simulações e animações com **Manim** e também para alguns projeos envolvendo inteligência artificial, além de manusear com **eletrônica** e escrever documentação técnica com **LaTeX**.
+I am passionate about my field of study. Currently, I use **Python** for simulations and animations with **Manim**, as well as for some amateur projects involving artificial intelligence. I also work with **electronics** and write technical documentation using **LaTeX**..
 
 
-### 📱 Entre em contato!
+### 📱 Get in touch!
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@z4tl4s)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davilemossouza@protonmail.com)
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ Programming languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
